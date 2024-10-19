@@ -56,6 +56,6 @@ similar_docs = vectorstore.similarity_search(query)
 ### 4.The chatbot will return the most relevant document based on the search and generate an insightful response.
 
 ## Key Configuration
-1. **Pinecone API Key**:The API key for Pinecone must be set in the environment variables.
-2. **Query and Response**:The chatbot can be used to ask questions based on the document’s content, especially for complex queries requiring document context.
+1. **Pinecone API Key** : The API key for Pinecone must be set in the environment variables.
+2. **Query and Response** : The chatbot can be used to ask questions based on the document’s content, especially for complex queries requiring document context.
 
